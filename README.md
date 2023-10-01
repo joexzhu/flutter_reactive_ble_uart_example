@@ -1,4 +1,4 @@
-# revised to be able to compile at flutter Flutter 3.13.1
+# Revised to be able to compile at flutter 3.13.1
 # flutter reactive BLE UART demo app
 
 This demo app shows an usecase for using flutter_reactive_ble library for building a UART emulation over BLE.
